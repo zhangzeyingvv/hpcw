@@ -19,3 +19,4 @@ for i in range(9):
   bubb(i,'Yb')
   bubb(i,'Pt')
   bubb(i,'Bi')
+eesdf
